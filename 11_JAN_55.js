@@ -42,4 +42,5 @@ check_vowel( value)
  let total_cash=99
  let used_cash=50
  let data= add(total_cash,used_cash)
- console.log(data)
+ //console.log(data)
+ document.write(`<h1> ${data}</h1>`)
